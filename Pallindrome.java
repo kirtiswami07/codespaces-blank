@@ -10,7 +10,8 @@ public class Pallindrome {
 			System.out.println(s+" - is a pallindrome");
 		}
 		else {
-			System.out.println(s+" - is a not pallindrome");
+			System.out.println(s+" - is a not the  pallindrome");
+            
 		}
 		
 		scn.close();
