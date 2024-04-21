@@ -7,7 +7,7 @@ public class Pallindrome {
 		System.out.print("Enter a String :");
 		String s = scn.nextLine();
 		if(isPallindrome(s)) {
-			System.out.println(s+" - is a pallindrome");
+			System.out.println(s+" - is a  the pallindrome");
 		}
 		else {
 			System.out.println(s+" - is a not the  pallindrome");
